@@ -1,4 +1,6 @@
 title: Custom Template
 plan:
-- title: Welcome
+- title: Arc.lol
   statement: markdowns/welcome.md
+- title: Part 2
+    statement: markdowns/part2.md
